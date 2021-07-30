@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">eBooks</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">share</string>
+    <string name="plant_name">Nama Tanaman</string>
+    <string name="detail">Detail Tanaman</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instagram_rzkarsyad">
+        Instagram : @rzkarsyad
+    </string>
+</resources>
