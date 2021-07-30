@@ -20,7 +20,7 @@ Link demo ada di google drive berupa video
 ## Instalasi
 Clone repository ini dan import / buka di Android Studio
 ```
-https://github.com/rzkarsyad/AndroidSubmission-Dicoding.git
+https://github.com/rzkarsyad/Submission-BelajarAndroidPemula-Dicoding.git
 ```
 
 ## Pembuat
